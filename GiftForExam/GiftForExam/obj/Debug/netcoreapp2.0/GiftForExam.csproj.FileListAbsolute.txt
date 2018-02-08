@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\GiftForExam\GiftForExam\bin\Debug\netcoreapp2.0\GiftForExam.deps.json
+C:\Users\user\source\repos\GiftForExam\GiftForExam\bin\Debug\netcoreapp2.0\GiftForExam.runtimeconfig.json
+C:\Users\user\source\repos\GiftForExam\GiftForExam\bin\Debug\netcoreapp2.0\GiftForExam.runtimeconfig.dev.json
+C:\Users\user\source\repos\GiftForExam\GiftForExam\bin\Debug\netcoreapp2.0\GiftForExam.dll
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.AssemblyInfo.cs
+C:\Users\user\source\repos\GiftForExam\GiftForExam\bin\Debug\netcoreapp2.0\GiftForExam.pdb
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.dll
+C:\Users\user\source\repos\GiftForExam\GiftForExam\obj\Debug\netcoreapp2.0\GiftForExam.pdb
